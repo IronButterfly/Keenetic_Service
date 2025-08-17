@@ -1,5 +1,6 @@
 # Keenetic_Service
-Custom integration for managing Keenetic nfqws and xkeen services in Home Assistant
+Custom integration for managing Keenetic nfqws and xkeen services in Home Assistant.
+
 You can turn services on and off, monitor their status.
 
 Note: For xkeen service, xray and mihomo engines are supported.
