@@ -1,1 +1,13 @@
-
+{
+  "domain": "keenetic_service",
+  "name": "Keenetic Service for nfqws and xkeen",
+  "version": "1.0.0",
+  "documentation": "https://github.com/IronButterfly/keenetic-service",
+  "issue_tracker": "https://github.com/IronButterfly/keenetic-service/issues",
+  "config_flow": true,
+  "dependencies": [],
+  "codeowners": ["@IronButterfly"],
+  "requirements": ["asyncssh>=2.0.0"],
+  "iot_class": "local_polling",
+  "loggers": ["custom_components.keenetic_service"]
+}
